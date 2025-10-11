@@ -1,0 +1,15 @@
+{
+  "name": "我的数字艺术品",
+  "description": "这是我在区块链上的首个NFT作品",
+  "image": "ipfs://QmWQs9WpsCYkPUWbR872axPfBFLzngzou9N7BvLb4dYuWm",
+  "attributes": [
+    {
+      "trait_type": "创作者",
+      "value": "郭凯"
+    },
+    {
+      "trait_type": "创作日期",
+      "value": "2025-10-10"
+    }
+  ]
+}
