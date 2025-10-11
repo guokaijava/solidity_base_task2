@@ -25,5 +25,16 @@
         部署到sepolia 测试网，导入到自己的钱包
 
 # 作业2：在测试网上发行一个图文并茂的 NFT
-代码：
+
+代码：hw2/GkNft.sol
+
+合约地址：0x20D8f7eAa646b7572B2bB50aa6505b90A8aFC3b4
+
 # 作业 1：作业3：编写一个讨饭合约
+
+代码： hw3/BeggingContract.sol
+
+合约地址：0x26Ea3D0e04449b53B2e6aF9fC955Fb914237cEE1
+
+![测试图片](./hw3/test.png)
+
